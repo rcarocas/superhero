@@ -1,0 +1,11 @@
+   @font-face {
+    font-family: "AnimeAce";
+    src: url(../fonts/animeace2_reg.ttf);
+  }
+
+  .anime-font{
+    font-family: "AnimeAce";
+
+  }
+
+
